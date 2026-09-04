@@ -43,7 +43,7 @@
 
 ### 🪟 Windows `.exe`
 
-Download the latest release from [Releases](https://github.com/YOUR_USERNAME/osu-finder/releases) and run:
+Download the latest release from [Releases](https://github.com/jakubic769/OsuFinder/releases) and run:
 
 ```text
 osu-finder.exe
