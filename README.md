@@ -1,46 +1,134 @@
-<!-- 🎵 osu!finder --> <div align="center">
+<div align="center">
 🎵 osu!finder
+A fast, simple and modern osu! beatmap finder for desktop.
+<p> <img src="docs/screenshots/main.png" width="850" alt="osu!finder main window"> </p> <p> <strong>Search · Preview · Download · Import</strong> </p> <p> <a href="https://github.com/jakubic769/OsuFinder/releases"> <img src="https://img.shields.io/github/v/release/jakubic769/OsuFinder?style=for-the-badge&color=ff66aa" alt="Latest Release"> </a> <a href="https://github.com/jakubic769/OsuFinder/stargazers"> <img src="https://img.shields.io/github/stars/jakubic769/OsuFinder?style=for-the-badge&color=ffcc00" alt="GitHub Stars"> </a> <a href="https://github.com/jakubic769/OsuFinder/issues"> <img src="https://img.shields.io/github/issues/jakubic769/OsuFinder?style=for-the-badge&color=9b59b6" alt="Issues"> </a> <a href="https://github.com/jakubic769/OsuFinder/blob/main/LICENSE"> <img src="https://img.shields.io/github/license/jakubic769/OsuFinder?style=for-the-badge&color=2ecc71" alt="License"> </a> </p> <p> <a href="https://github.com/jakubic769/OsuFinder/releases"> <strong>⬇️ Download</strong> </a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="https://github.com/jakubic769/OsuFinder/issues"> <strong>🐛 Report a Bug</strong> </a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="https://github.com/jakubic769/OsuFinder"> <strong>⭐ Star the Project</strong> </a> </p> </div>
+🎯 About
 
-Fast & simple osu! beatmap finder for desktop.
+osu!finder is a lightweight desktop application designed to make finding and downloading osu! beatmaps quick and convenient.
 
-<p> <img src="docs/screenshots/main.png" width="850" alt="Main window screenshot"> </p> <p> Search, preview and download osu! beatmaps — without logging in. </p> <p> <a href="https://github.com/jakubic769/OsuFinder/releases"> <img src="https://img.shields.io/github/v/release/jakubic769/OsuFinder?style=for-the-badge" alt="GitHub release"> </a> <a href="https://github.com/jakubic769/OsuFinder/stargazers"> <img src="https://img.shields.io/github/stars/jakubic769/OsuFinder?style=for-the-badge" alt="GitHub stars"> </a> <a href="https://github.com/jakubic769/OsuFinder/issues"> <img src="https://img.shields.io/github/issues/jakubic769/OsuFinder?style=for-the-badge" alt="GitHub issues"> </a> <a href="LICENSE"> <img src="https://img.shields.io/github/license/jakubic769/OsuFinder?style=for-the-badge" alt="License"> </a> </p> </div>
+Search for a beatmap, preview its details, choose the difficulty you want, and download the .osz file — all from one simple interface.
+
+🎵 No osu! account required.
+
 ✨ Features
-🔎 Search osu! beatmaps by title, artist, or mapper
-🎮 Game modes: osu!, Taiko, Catch, Mania
-⭐ Star difficulty filter with sliders
-📊 Status filter: Ranked, Loved, Qualified, Pending, Graveyard
-🖼️ Beatmap covers and detailed beatmap view
-⬇️ Download .osz files directly to your system
-📦 Import .osz, .zip, .7z, and .rar files
-🎨 Custom themes — colors, backgrounds, opacity, and more
-🖼️ Custom background images copied locally to the application folder
-⚡ Smooth animations and responsive UI
-⌨️ Keyboard shortcuts
-🌍 Multi-language support: English, Polish, German, Russian
+<table> <tr> <td width="50%">
+🔎 Beatmap Search
+
+Search beatmaps by:
+
+Title
+Artist
+Mapper
+Difficulty
+</td> <td width="50%">
+🎮 Multiple Game Modes
+
+Supports all major osu! game modes:
+
+🖱️ osu!
+🥁 Taiko
+🍎 Catch
+⌨️ Mania
+</td> </tr> <tr> <td width="50%">
+⭐ Difficulty Filters
+
+Filter maps using:
+
+Star difficulty
+Minimum difficulty
+Maximum difficulty
+</td> <td width="50%">
+📊 Status Filters
+
+Find maps by status:
+
+🟢 Ranked
+💗 Loved
+🔵 Qualified
+🟡 Pending
+⚫ Graveyard
+</td> </tr> <tr> <td width="50%">
+🖼️ Beatmap Details
+
+View detailed information including:
+
+Cover art
+Artist
+Title
+Mapper
+Difficulty
+Beatmap status
+</td> <td width="50%">
+⬇️ Easy Downloads
+
+Download .osz files directly from the application and open them in osu!
+
+</td> </tr> <tr> <td width="50%">
+📦 File Import
+
+Import existing beatmaps from:
+
+.osz
+.zip
+.7z
+.rar
+</td> <td width="50%">
+🎨 Custom Themes
+
+Customize the application with:
+
+Accent colors
+Text colors
+Backgrounds
+Opacity
+Panels & borders
+Theme presets
+</td> </tr> <tr> <td width="50%">
+🌍 Multiple Languages
+
+Currently available in:
+
+🇬🇧 English
+🇵🇱 Polish
+🇩🇪 German
+🇷🇺 Russian
+</td> <td width="50%">
+⚡ Modern UI
+
+Built with a focus on:
+
+Smooth animations
+Responsive interface
+Keyboard navigation
+Clean desktop experience
+</td> </tr> </table>
+📸 Screenshots
+🏠 Main Window
+<p align="center"> <img src="docs/screenshots/main.png" width="900" alt="osu!finder main window"> </p>
+🎵 Beatmap Details
+<p align="center"> <img src="docs/screenshots/details.png" width="700" alt="osu!finder beatmap details"> </p>
 📥 Installation
-🪟 Windows .exe
+🪟 Windows
 
-Download the latest version from the Releases page and run:
+The easiest way to use osu!finder is to download the latest .exe release.
 
-osu-finder.exe
+1. Go to the Releases page.
 
+2. Download the latest osu-finder.exe.
 
-No Python installation required.
+3. Run the application.
 
-🐍 Run with Python
+That's it. No Python installation required.
 
-Requirements:
-
+🐍 Run from Source
+Requirements
 Python 3.11+
 Git
-
-Clone the repository:
-
+1. Clone the repository
 git clone https://github.com/jakubic769/OsuFinder.git
 cd OsuFinder
 
-
-Create and activate a virtual environment:
+2. Create a virtual environment
 
 Windows:
 
@@ -53,112 +141,49 @@ macOS / Linux:
 python3 -m venv .venv
 source .venv/bin/activate
 
-
-Install dependencies:
-
+3. Install dependencies
 pip install -r requirements.txt
 
-
-Run the application:
-
+4. Start osu!finder
 python osu_finder.py
 
 🧠 How It Works
-Search
-  ↓
-osu! beatmap API (mirror)
-  ↓
-Beatmap results
-  ↓
-Choose a map
-  ↓
-Download .osz
-  ↓
-Open / install in osu!
+
+osu!finder keeps the process simple:
+
+┌──────────────┐
+│    Search    │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────────────┐
+│ osu! Beatmap API     │
+│       (Mirror)       │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│   Beatmap Results    │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│    Choose a Map      │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│     Download .osz    │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│     Open in osu!     │
+└──────────────────────┘
 
 
 The application uses a public osu! API mirror and does not require an osu! account.
 
 🎨 Customization
 
-osu!finder provides extensive customization options.
-
-You can change:
-
-🖼️ Background image
-🌫️ Background opacity
-🎨 Accent color
-🔤 Text colors
-🪟 Panels and borders
-🎭 Theme presets
-
-Background images can have any aspect ratio and are copied locally to the application folder.
-
-💾 Themes
-
-Theme presets can be exported and imported as JSON files.
-
-Application settings are stored locally in:
-
-~/.osu-finder/
-
-🌍 Languages
-
-The interface is currently available in:
-
-Language	Code
-🇵🇱 Polish	pl
-🇬🇧 English	en
-🇩🇪 German	de
-🇷🇺 Russian	ru
-
-You can switch the language at any time using the „JĘZYK” section in the sidebar.
-
-Your language preference is saved automatically in:
-
-~/.osu-finder/language.json
-
-⌨️ Keyboard Shortcuts
-Key	Action
-Ctrl + L	Focus search
-/	Focus search
-Enter	Search
-Esc	Close dialog
-📸 Screenshots
-<p align="center"> <img src="docs/screenshots/main.png" width="48%" alt="Main window"> <img src="docs/screenshots/details.png" width="48%" alt="Details dialog"> </p>
-🛠️ Built With
-🐍 Python
-🖥️ PySide6 — Qt for Python
-🌐 Requests
-🎵 osu! beatmap API mirrors
-🚧 Roadmap
- More beatmap sources
- Favorites
- Download history
- Automatic osu! installation
- More customization options
- Additional languages
-⚠️ Disclaimer
-
-osu!finder is an unofficial community project and is not affiliated with osu! or ppy.
-
-🤝 Contributing
-
-Contributions are welcome!
-
-If you have an idea, find a bug, or want to improve the project, feel free to:
-
-Open an issue
-Suggest a new feature
-Submit a pull request
-📄 License
-
-This project is licensed under the MIT License.
-
-See the LICENSE file for more information.
-
-⭐ Support the Project
-
-If you like osu!finder, consider giving the project a ⭐ on GitHub!
-
-<p align="center"> <a href="https://github.com/jakubic769/OsuFinder"> <strong>⭐ Star osu!finder on GitHub</strong> </a> </p>
+Make osu!finder
