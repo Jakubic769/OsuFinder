@@ -265,10 +265,6 @@ Changes apply instantly, with no restart required.
 
 ---
 
-## 🤝 Contributing
-
-Contributions, bug reports, and feature requests are welcome! Feel free to check the [issues page](https://github.com/jakubic769/OsuFinder/issues).
-
 ## 📄 License
 
 This project is licensed under the terms specified in the [LICENSE](https://github.com/jakubic769/OsuFinder/blob/main/LICENSE) file.
