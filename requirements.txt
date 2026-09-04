@@ -1,0 +1,5 @@
+PySide6>=6.8,<7
+requests>=2.32,<3
+Pillow>=10,<12
+py7zr>=0.22,<1
+rarfile>=4.2,<6
