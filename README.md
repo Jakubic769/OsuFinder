@@ -1,6 +1,5 @@
 <div align="center">
-## 🎵 osu!finder
-## A fast, simple and modern osu! beatmap finder for desktop.
+#🎵 osu!finder A fast, simple and modern osu! beatmap finder for desktop.
 <p> <img src="docs/screenshots/ico.png" width="850" alt="osu!finder main window"> </p> <p> <strong>Search · Preview · Download · Import</strong> </p> <p> <a href="https://github.com/jakubic769/OsuFinder/releases"> <img src="https://img.shields.io/github/v/release/jakubic769/OsuFinder?style=for-the-badge&color=ff66aa" alt="Latest Release"> </a> <a href="https://github.com/jakubic769/OsuFinder/stargazers"> <img src="https://img.shields.io/github/stars/jakubic769/OsuFinder?style=for-the-badge&color=ffcc00" alt="GitHub Stars"> </a> <a href="https://github.com/jakubic769/OsuFinder/issues"> <img src="https://img.shields.io/github/issues/jakubic769/OsuFinder?style=for-the-badge&color=9b59b6" alt="Issues"> </a> <a href="https://github.com/jakubic769/OsuFinder/blob/main/LICENSE"> <img src="https://img.shields.io/github/license/jakubic769/OsuFinder?style=for-the-badge&color=2ecc71" alt="License"> </a> </p> <p> <a href="https://github.com/jakubic769/OsuFinder/releases"> <strong>⬇️ Download</strong> </a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="https://github.com/jakubic769/OsuFinder/issues"> <strong>🐛 Report a Bug</strong> </a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="https://github.com/jakubic769/OsuFinder"> <strong>⭐ Star the Project</strong> </a> </p> </div>
 🎯 About
 
