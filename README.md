@@ -4,8 +4,6 @@
 
 **A fast, simple and modern osu! beatmap finder for desktop.**
 
-<img src="docs/screenshots/ico.png" width="850" alt="osu!finder main window">
-
 **Search · Preview · Download · Import**
 
 [![Latest Release](https://img.shields.io/github/v/release/jakubic769/OsuFinder?style=for-the-badge&color=ff66aa)](https://github.com/jakubic769/OsuFinder/releases)
